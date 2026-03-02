@@ -37,6 +37,6 @@ HTML | CSS | JavaScript
 - Estruturas matemáticas por trás de redes neurais
 - Otimização e Regularização
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiovitorms15&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=caiovitorms15&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiovitorms15&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caiovitorms15&layout=compact&theme=dark)
